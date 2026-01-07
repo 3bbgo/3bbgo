@@ -7,6 +7,7 @@
   <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /> 
   <br/>
   <span style="color: #1E4C9A;">นายจิรศักดิ์ จันทร์ต๊ะริมปิง</span>
+  <span style="color: #1E4C9A;">Jirasak Jantarimping</span>
 </h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=25&duration=3000&pause=1000&color=1E4C9A&center=true&vCenter=true&width=600&lines=Front-end+Developer+🚀;" alt="Typing SVG" />
