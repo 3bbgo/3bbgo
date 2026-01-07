@@ -21,7 +21,7 @@
 - 🎓 **Information Technology Student - Year 4**
 - 🎯 **Goal**: Becoming a **Front-end Developer**
 - 🌱 Currently Learning: Spring Boot, Postman, API Integration
-- 🛠 Daily Tech Stack: Java · Spring MVC · Spring Boot · MySQL · HTML · CSS · JavaScript
+- 🛠 Daily Tech Stack: Java · MySQL · HTML · CSS · JavaScript · React
 - 📫 Reach me at: [3bbgowww@gmail.com](mailto:3bbgowww@gmail.com)
 
 ---
@@ -41,6 +41,7 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/JSP-ED8B00?style=flat-square&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
     </td>
     <td>
        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" />
@@ -60,6 +61,8 @@
     </td>
     <td>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -70,6 +73,7 @@
     <td>
     </td>
     <td>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
     </td>
   </tr>
   <tr>
