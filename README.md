@@ -22,8 +22,7 @@
 - 🎓 **Information Technology Student - Year 4**
 - 🎯 **Goal**: Becoming a **Front-end Developer**
 - 🌱 Currently Learning: Spring Boot, Postman, API Integration
-- 🛠 Daily Tech Stack: Java · MySQL · HTML · CSS · JavaScript · React
-- 📫 Reach me at: [3bbgowww@gmail.com](mailto:3bbgowww@gmail.com)
+- 🛠 Daily Tech Stack: HTML · CSS · JavaScript · Java · MySQL · React
 
 ---
 
