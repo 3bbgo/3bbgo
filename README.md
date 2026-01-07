@@ -140,7 +140,7 @@
   </tr>
   <tr style="background: rgba(30, 76, 154, 0.05);">
     <th style="padding: 12px; text-align: left;">💬 Languages</th>
-    <td style="padding: 12px;">Thai (Native) • English (Beginner )</td>
+    <td style="padding: 12px;">Thai (Excellent) • English (Beginner)</td>
 
 </table>
 <br/>
