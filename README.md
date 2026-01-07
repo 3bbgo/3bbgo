@@ -6,7 +6,8 @@
   สวัสดีครับ 
   <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /> 
   <br/>
-  <span style="color: #1E4C9A;">นายจิรศักดิ์ จันทร์ต๊ะริมปิง</span>
+  <br/>
+  <span style="color: #1E4C9A;">จิรศักดิ์ จันทร์ต๊ะริมปิง</span>
   <br/>
   <span style="color: #1E4C9A;">Jirasak Jantarimping</span>
 </h1>
@@ -121,7 +122,6 @@
 ---
 
 ## ✍🏻 Recent Blog / Talks
-<!-- GH Action can automate this section; placeholder for manual list -->
 - ⟪May 2025⟫ • **Observable-Ready Dashboards** at BangkokJS  
 - ⟪Apr 2025⟫ • Published *“Scalable Monorepo Patterns”* on Medium  
 - ⟪Mar 2025⟫ • Panel speaker at DevCon Asia: *Modern DevOps*
