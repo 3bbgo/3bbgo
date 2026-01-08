@@ -96,7 +96,7 @@
 ## 📌 Featured Projects
 
 <div align="center">
-  <h3 style="color: #1E4C9A;">🚔 Online Complaint Website</h3>
+  <h3 style="color: #1E4C9A;">🚔 Online police reporting system</h3>
 </div>
 📅 Timeline: 2025 - Present <br/>
 👥 Team: Individual Project <br/>
