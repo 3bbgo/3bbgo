@@ -98,30 +98,52 @@
 ---
 
 ## 📌 Featured Projects
-
 <div align="center">
-  <h3 style="color: #1E4C9A;">🚔 Online Complaint System Website</h3>
+<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+<h3 style="color: #1E4C9A; margin-top: 10px;">🚔 Online Complaint </h3>
+<p><i>ระบบแจ้งความออนไลน์</i></p>
 </div>
-📅 Timeline: 2025 - Present <br/>
-👥 Team: Individual Project <br/>
+
+📅 Timeline: 2025 
+
+👥 Role: Full-stack Developer (Individual Project)
+
 🎯 Project Description:
-ระบบแจ้งความออนไลน์สำหรับสถานีตำรวจ ที่ออกแบบมาเพื่อช่วยให้ประชาชนสามารถแจ้งความและติดตามสถานะคดีได้อย่างสะดวกและรวดเร็ว <br/>
+ระบบแพลตฟอร์มที่ออกแบบมาเพื่อช่วยให้ประชาชนสามารถแจ้งความและติดตามสถานะคดีได้อย่างสะดวก รวดเร็ว และลดขั้นตอนการทำงานซ้ำซ้อนของเจ้าหน้าที่ตำรวจ โดยเน้นความถูกต้องของข้อมูลและการใช้งานที่เข้าถึงง่ายทุกอุปกรณ์
+
 🛠️ Technology Stack:
+
+🌐 Front-end
+
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br/>
-  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
+
+⚙️ Back-end
+
+<p>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+</p>
+
+🗄️ Database
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
 ✨ Key Features:
 
-- 📝 Online Complaint Filing: ระบบแจ้งความออนไลน์ที่ใช้งานง่าย
-- 📊 Real-time Status Tracking: ติดตามสถานะคดีแบบเรียลไทม์
-- 👮‍♂️ Officer Management System: ระบบจัดการสำหรับเจ้าหน้าที่
-- 📱 Responsive Design: รองรับการใช้งานในทุกอุปกรณ์
+📝 Online Complaint Filing: ระบบแจ้งความออนไลน์ที่รองรับการกรอกข้อมูลแบบ Dynamic และจัดเก็บข้อมูลลงฐานข้อมูลอย่างเป็นระบบ
+
+📊 Real-time Status Tracking: ระบบติดตามความคืบหน้าของคดีผ่าน Tracking ID ให้ประชาชนตรวจสอบสถานะได้ตลอด 24 ชั่วโมง
+
+👮‍♂️ Officer Management System: แผงควบคุม (Dashboard) สำหรับเจ้าหน้าที่ เพื่อจัดการบันทึกประจำวัน (Daily Records) และสถานะคดี
+
+📱 Responsive Design: ส่วนติดต่อผู้ใช้งาน (UI) ที่ปรับแต่งมาอย่างดีเพื่อให้รองรับการใช้งานทั้งบนสมาร์ทโฟนและคอมพิวเตอร์
 
 ---
 
