@@ -21,8 +21,8 @@
 ## 🚀 About Me
 - 🎓 **Information Technology Student - Year 4**
 - 🎯 **Goal**: Becoming a **Front-end Developer**
-- 🌱 Currently Learning: Spring Boot, Postman, API Integration
-- 🛠 Daily Tech Stack: HTML · CSS · JavaScript · Java · MySQL · React
+- 🌱 Currently Learning: Spring Boot, Postman, Python, API Integration
+- 🛠 Daily Tech Stack: HTML · CSS · JavaScript · Java · MySQL · React · JavaScript
 
 ---
 
@@ -99,7 +99,7 @@
 
 ## 📌 Featured Projects
 <div align="center">
-<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+
 <h3 style="color: #1E4C9A; margin-top: 10px;">🚔 Online Complaint </h3>
 <p><i>ระบบแจ้งความออนไลน์</i></p>
 </div>
